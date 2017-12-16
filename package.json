@@ -1,0 +1,17 @@
+{
+  "name": "category-theory",
+  "version": "Maybe(1.0.0)",
+  "devDependencies": {
+    "babel-jest": "^21.2.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-flow": "^6.23.0",
+    "flow-bin": "^0.61.0",
+    "jest": "^21.2.1"
+  },
+  "jest": {
+    "timers": "fake"
+  },
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
+}
